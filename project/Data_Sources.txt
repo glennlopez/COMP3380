@@ -1,0 +1,7 @@
+https://geoportal.gov.mb.ca/
+https://data.winnipeg.ca/
+https://open.canada.ca/en/open-data
+
+ 
+https://www.kaggle.com/mysarahmadbhat/120-years-of-olympic-history?select=athlete_events.csv     % Choosen
+https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo/version/7
